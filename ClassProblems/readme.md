@@ -7,7 +7,7 @@ Navigate to the program.
 
 | Name      | Description |
 | ----------- | ----------- |
-| apples.c      | Find the optimum cost to buy apples       |
+| [apples.c](https://github.com/WatashiwaSid/c-dev/blob/main/ClassProblems/apples.c)      | Find the optimum cost to buy apples       |
 | sum-of-range.c   | Find the sum of n numbers taken as input in a given range        |
 
  
