@@ -1,6 +1,13 @@
 # Assignment 01
 Assignment TBC 101 Programming concepts using C language. 
 
+# Index
+| Problem      | Description |
+| ----------- | ----------- |
+| [1]()      | Find the total length of rope required to build boundary for a circular field.       |
+| [2]()   | Find whether a number is divisible by 11 or not.        |
+| [3]()   | Print all number bw 1 and 100 that are exactly divisible by 7. |
+
 # Author
 [Siddhant Nautiyal.](https://linktr.ee/COMICSID)
 
