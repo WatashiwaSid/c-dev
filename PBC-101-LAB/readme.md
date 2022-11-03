@@ -7,6 +7,6 @@ Practical Questions for Programming in C Lab.
 # Index
 Questions are written in order.
 
-- 1
+- [1](https://github.com/WatashiwaSid/c-dev/blob/main/PBC-101-LAB/1-farmer.c)
 - 2
 - 3
