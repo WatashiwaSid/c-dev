@@ -1,6 +1,9 @@
 # Assignment 01
 Assignment TBC 101 Programming concepts using C language. 
 
+# Author
+[Siddhant Nautiyal.](https://linktr.ee/COMICSID)
+
 # Problem 1
 
 ### Objective
