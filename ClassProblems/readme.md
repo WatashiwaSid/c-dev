@@ -8,6 +8,6 @@ Navigate to the program.
 | Name      | Description |
 | ----------- | ----------- |
 | [apples.c](https://github.com/WatashiwaSid/c-dev/blob/main/ClassProblems/apples.c)      | Find the optimum cost to buy apples       |
-| sum-of-range.c   | Find the sum of n numbers taken as input in a given range        |
+| [sum-of-range.c](https://github.com/WatashiwaSid/c-dev/blob/main/ClassProblems/sum-of-range.c)   | Find the sum of n numbers taken as input in a given range        |
 
  
