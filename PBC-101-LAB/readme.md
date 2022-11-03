@@ -9,4 +9,4 @@ Questions are written in order.
 
 - [1](https://github.com/WatashiwaSid/c-dev/blob/main/PBC-101-LAB/1-farmer.c)
 - [2](https://github.com/WatashiwaSid/c-dev/blob/main/PBC-101-LAB/2-temperature.c)
-- 3
+- [3](https://github.com/WatashiwaSid/c-dev/blob/main/PBC-101-LAB/3-swap.c)
