@@ -7,6 +7,8 @@ Assignment TBC 101 Programming concepts using C language.
 | [1]()      | Find the total length of rope required to build boundary for a circular field.       |
 | [2]()   | Find whether a number is divisible by 11 or not.        |
 | [3]()   | Print all number bw 1 and 100 that are exactly divisible by 7. |
+| [4]()   | Input 20 numbers. Count how many numbers are exactly divisible by 5 AND 7.   |
+| [5]()   | Consider a FD for 2 years. Input monthly deposit. Calculate total deposit at the end of 2 year.    |
 
 # Author
 [Siddhant Nautiyal.](https://linktr.ee/COMICSID)
@@ -46,7 +48,7 @@ Range(1-20). Iterate in the given range. Check divisibilty with mod(%) and logic
 # Problem 5
 
 ### Objective
-Consider you have a FD for 2 years. Input monthly deposit. Calculate total deposit at the end of 2 year.
+Consider a FD for 2 years. Input monthly deposit. Calculate total deposit at the end of 2 year.
 ### Logic
 Months = 24. Total Deposit = Monthly Deposit*24. 
 ![Imgur](https://i.imgur.com/5JJs3Ff.png)
