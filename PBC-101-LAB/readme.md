@@ -3,11 +3,9 @@ Practical Questions for Programming in C Lab.
 
 # Question Sheet
 ![Imgur](https://i.imgur.com/lhnQYeK.jpg)
-
 ![Imgur](https://i.imgur.com/lox4nZc.jpg)
-
 ![Imgur](https://i.imgur.com/XT0hBpe.jpg)
-
+Scroll Below to see index.
 # Index
 Navigate to a given problem.
 
