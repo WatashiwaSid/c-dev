@@ -18,7 +18,8 @@ Navigate to a given problem.
 | [5b-switch-case.c](https://github.com/WatashiwaSid/c-dev/blob/main/PBC-101-LAB/5b-switch-case.c)   | Find whether a given number is even or odd. Use Switch-Case.    |
 | [5c-ternary-op.c](https://github.com/WatashiwaSid/c-dev/blob/main/PBC-101-LAB/5c-ternary-op)   | Find whether a given number is even or odd. Use Ternary Operator. |
 | [7-percentage.c](https://github.com/WatashiwaSid/c-dev/blob/main/PBC-101-LAB/7-percentage.c)   | Input the percentage of a user and return their grade.    |
-
+| [12-sum-of-digits.c](https://github.com/WatashiwaSid/c-dev/blob/main/PBC-101-LAB/12-sum-of-digits.c)   | Find the sum of digits of a gicen number.    |
+| [13-factorial.c](https://github.com/WatashiwaSid/c-dev/blob/main/PBC-101-LAB/12-factorial.c)   | Find the factorial of a given number.   |
 
 
 # Author
