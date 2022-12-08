@@ -9,7 +9,7 @@ void main()
     for(range=2;range<=100;range++)
     {
         verifier=0;
-        for(count=2;count<range;count++)
+        for(count=2;count<range;count++) //The counter starts from 2 based on the fact that 1 is not a prime number.
         {
             if(range%count==0)
                 verifier++;
