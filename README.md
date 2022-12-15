@@ -1,4 +1,6 @@
 # C-Dev
+![Imgur](https://i.imgur.com/6zrcxBU.png)
+
 This repository contains my practice C programs to build essential programming logic. This repository contains programs discussed during class lectures, assignments and lab practicals.
 
 All programs are stored in associated directory. Find index below. 
