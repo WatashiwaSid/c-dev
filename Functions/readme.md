@@ -21,3 +21,4 @@ Functions in C programming can be categorised into 4 major types.
 | Problem      | Description |
 | ----------- | ----------- |
 | [1. functions.c](https://github.com/WatashiwaSid/c-dev/blob/main/Assignment01/1.c)      | 4 categories of functions explained.       |
+| [2. factorialfunc.c](https://github.com/WatashiwaSid/c-dev/blob/main/Assignment01/1.c)      | Function to return factorial of a number       |
