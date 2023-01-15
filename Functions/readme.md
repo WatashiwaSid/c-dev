@@ -8,8 +8,8 @@
 - User Defined
 - Library functions
 
-## Categorization of functions
-Functions in C programming can be categorised into 4 major types.
+## Categorization of User Defined Functions
+User defined functions in C programming can be categorised into 4 major types.
 - Function with arguments and with return value.
 - Function with arguments and without return value.
 - Functions without arguements and with return value
@@ -22,3 +22,5 @@ Functions in C programming can be categorised into 4 major types.
 | ----------- | ----------- |
 | [1. functions.c](https://github.com/WatashiwaSid/c-dev/blob/main/Functions/factorialfunc.c)      | 4 categories of functions explained.       |
 | [2. factorialfunc.c](https://github.com/WatashiwaSid/c-dev/blob/main/Functions/functions.c)      | Function to return factorial of a number       |
+| [3. poweroffunc.c](https://github.com/WatashiwaSid/c-dev/blob/main/Functions/functions.c)      | function takes two arguments (mantissa and power) and, returns the power raised to the mantissa      |
+
