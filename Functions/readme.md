@@ -31,6 +31,16 @@ User defined functions in C programming can be categorised into 4 major types.
 - A value at which the function does not recurr itself is called base value. 
 
   **Note** that any problem that can be solved *recursively*, can also be solved *iteratively*. 
+  
+ ### Is recursion always good?
+ **No.**
+ Some problems are best suited to be solved with recursion, but not every problem has to be nesccessarily solved through recursion. Sometimes recursion creates unneccesary time complexities by making mutiple calls. Iterative approach shall be followed during such scenarios.
+ 
+ *For Instance*
+ 
+ - **Factorial** problem can be solved using recursion, where **"!n = n * !(n-1)"**
+ 
+ - **Fibonacci** series is an example where iteration is better than recursion.
 
 
 
@@ -41,4 +51,5 @@ User defined functions in C programming can be categorised into 4 major types.
 | [1. functions.c](https://github.com/WatashiwaSid/c-dev/blob/main/Functions/factorialfunc.c)      | 4 categories of functions explained.       |
 | [2. factorialfunc.c](https://github.com/WatashiwaSid/c-dev/blob/main/Functions/functions.c)      | Function to return factorial of a number       |
 | [3. poweroffunc.c](https://github.com/WatashiwaSid/c-dev/blob/main/Functions/poweroffunc.c)      | function takes two arguments (mantissa and power) and, returns the power raised to the mantissa      |
+| [4. recursion.c](https://github.com/WatashiwaSid/c-dev/blob/main/Functions/recursion.c)      | A simple recursive function to add first n positive integers      |
 
