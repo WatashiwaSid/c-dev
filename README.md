@@ -12,7 +12,7 @@ All programs are stored in associated directory. Find index below.
 | [PBC-101-LAB](https://github.com/WatashiwaSid/c-dev/tree/main/PBC-101-LAB)   | Lab Practical questions for sem 1        |
 | [ClassProblems](https://github.com/WatashiwaSid/c-dev/tree/main/ClassProblems) | Questions discussed during class lectures |
 | [PatternPrograms](https://github.com/WatashiwaSid/c-dev/tree/main/pattern%20programs) | C programs to print different patterns |
-| [Functions](https://github.com/WatashiwaSid/c-dev/tree/main/pattern%20programs) | Introduction to C Functions |
+| [Functions](https://github.com/WatashiwaSid/c-dev/tree/main/Functions) | Introduction to C Functions |
 
 # License
 This repository is **open-source** and licensed under **General Public License 3.0**
