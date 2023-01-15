@@ -4,9 +4,19 @@
 - With the help of functions, program can be divided among fellow prorammers.
 - Debugging is simplified.
 
+### Why Functions
+Two major reasons to use functions
+- **Abstraction** 
+
+If you are using a function in your program then you do not have to worry about how it works internally.
+
+- **Reusability** 
+
+Once the function is defined, it can be called over and over again. 
+
 ## Types of functions
-- User Defined
-- Library functions
+- **User Defined**
+- **Library functions**
 
 ## Categorization of User Defined Functions
 User defined functions in C programming can be categorised into 4 major types.
@@ -15,6 +25,14 @@ User defined functions in C programming can be categorised into 4 major types.
 - Functions without arguements and with return value
 - Function without arguements and without return value.
 
+## Recursion
+- Recursive functions or Recursion is a process when a function calls itself until solution is derived.
+- A termination condition has has to be imposed on recursive function to stop them executing itself forever.
+- A value at which the function does not recurr itself is called base value. 
+
+  **Note** that any problem that can be solved *recursively*, can also be solved *iteratively*. 
+
+
 
 # Index
 ### Read in order
@@ -22,5 +40,5 @@ User defined functions in C programming can be categorised into 4 major types.
 | ----------- | ----------- |
 | [1. functions.c](https://github.com/WatashiwaSid/c-dev/blob/main/Functions/factorialfunc.c)      | 4 categories of functions explained.       |
 | [2. factorialfunc.c](https://github.com/WatashiwaSid/c-dev/blob/main/Functions/functions.c)      | Function to return factorial of a number       |
-| [3. poweroffunc.c](https://github.com/WatashiwaSid/c-dev/blob/main/Functions/functions.c)      | function takes two arguments (mantissa and power) and, returns the power raised to the mantissa      |
+| [3. poweroffunc.c](https://github.com/WatashiwaSid/c-dev/blob/main/Functions/poweroffunc.c)      | function takes two arguments (mantissa and power) and, returns the power raised to the mantissa      |
 
