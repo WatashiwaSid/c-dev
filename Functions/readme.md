@@ -51,5 +51,6 @@ User defined functions in C programming can be categorised into 4 major types.
 | [1. functions.c](https://github.com/WatashiwaSid/c-dev/blob/main/Functions/factorialfunc.c)      | 4 categories of functions explained.       |
 | [2. factorialfunc.c](https://github.com/WatashiwaSid/c-dev/blob/main/Functions/functions.c)      | Function to return factorial of a number       |
 | [3. poweroffunc.c](https://github.com/WatashiwaSid/c-dev/blob/main/Functions/poweroffunc.c)      | function takes two arguments (mantissa and power) and, returns the power raised to the mantissa      |
-| [4. recursion.c](https://github.com/WatashiwaSid/c-dev/blob/main/Functions/recursion.c)      | A simple recursive function to add first n positive integers      |
+| [4. recursion.c](https://github.com/WatashiwaSid/c-dev/blob/main/Functions/recursion.c)      | A simple recursive function to return factorial of a number     |
+| [5. recursion.c](https://github.com/WatashiwaSid/c-dev/blob/main/Functions/recursion.c)      | A simple recursive function to add first n positive integers      |
 
