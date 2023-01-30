@@ -20,9 +20,8 @@ Navigate to a given problem.
 | [13-factorial.c](https://github.com/WatashiwaSid/c-dev/blob/main/PBC-101-LAB/12-factorial.c)   | Find the factorial of a given number.   |
 
 # Question Sheet
-![Imgur](https://i.imgur.com/lhnQYeK.jpg)
-![Imgur](https://i.imgur.com/lox4nZc.jpg)
-![Imgur](https://i.imgur.com/XT0hBpe.jpg)
+![Imgur](https://i.imgur.com/ULkpFJ6.png)
+![Imgur](https://i.imgur.com/qljRqQo.png)
 
 # Author
 [Siddhant Nautiyal](https://linktr.ee/COMICSID)
