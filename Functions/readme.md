@@ -49,7 +49,7 @@ User defined functions in C programming can be categorised into 4 major types.
 | Problem      | Description |
 | ----------- | ----------- |
 | [1. functions.c](https://github.com/WatashiwaSid/c-dev/blob/main/Functions/factorialfunc.c)      | 4 categories of functions explained.       |
-| [2. factorialfunc.c](https://github.com/WatashiwaSid/c-dev/blob/main/Functions/functions.c)      | Function to return factorial of a number       |
+| [2. factorialfunc.c](https://github.com/WatashiwaSid/c-dev/blob/main/Functions/factorialfunc.c)      | Function to return factorial of a number       |
 | [3. decimal2hex.c](https://github.com/WatashiwaSid/c-dev/blob/main/Functions/decimal2hex.c)      | Decimal number to hexadecimal    |
 | [4. poweroffunc.c](https://github.com/WatashiwaSid/c-dev/blob/main/Functions/poweroffunc.c)      | function takes two arguments (mantissa and power) and, returns the power raised to the mantissa      |
 | [5. factorialrecursion.c](https://github.com/WatashiwaSid/c-dev/blob/main/Functions/factorialrecursion.c)      | A simple recursive function to return factorial of a number     |
