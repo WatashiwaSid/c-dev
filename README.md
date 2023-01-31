@@ -13,6 +13,9 @@ All programs are stored in associated directory. Find index below.
 | [ClassProblems](https://github.com/WatashiwaSid/c-dev/tree/main/ClassProblems) | Questions discussed during class lectures |
 | [PatternPrograms](https://github.com/WatashiwaSid/c-dev/tree/main/pattern%20programs) | C programs to print different patterns |
 | [Functions](https://github.com/WatashiwaSid/c-dev/tree/main/Functions) | Introduction to C Functions |
+| [Arrays](https://github.com/WatashiwaSid/c-dev/tree/main/Functions) | Introduction to C Arrays |
+| [Pointers](https://github.com/WatashiwaSid/c-dev/tree/main/Functions) | Introduction to C Pointers |
+
 
 # License
 This repository is **open-source** and licensed under **General Public License 3.0**
