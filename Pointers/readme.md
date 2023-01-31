@@ -23,4 +23,4 @@ Refer in same order.
 | Program      | Description |
 | ----------- | ----------- |
 | [pointers.c](https://github.com/WatashiwaSid/c-dev/tree/main/Pointers/pointers.c)      | Introduction to C Pointers      |
-| [PBC-101-LAB](https://github.com/WatashiwaSid/c-dev/tree/main/PBC-101-LAB)   | Lab Practical questions for sem 1        |
+| [pointerarithmetics](https://github.com/WatashiwaSid/c-dev/tree/main/pointerarithmetics)   | Intrdocution to Pointer Arithmetic and Internal Pointer Variables        |
