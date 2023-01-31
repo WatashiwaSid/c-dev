@@ -14,7 +14,7 @@ All programs are stored in associated directory. Find index below.
 | [PatternPrograms](https://github.com/WatashiwaSid/c-dev/tree/main/pattern%20programs) | C programs to print different patterns |
 | [Functions](https://github.com/WatashiwaSid/c-dev/tree/main/Functions) | Introduction to C Functions |
 | [Arrays](https://github.com/WatashiwaSid/c-dev/tree/main/Functions) | Introduction to C Arrays |
-| [Pointers](https://github.com/WatashiwaSid/c-dev/tree/main/Functions) | Introduction to C Pointers |
+| [Pointers](https://github.com/WatashiwaSid/c-dev/tree/main/Pointers) | Introduction to C Pointers |
 
 
 # License
