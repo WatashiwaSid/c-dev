@@ -54,3 +54,4 @@ User defined functions in C programming can be categorised into 4 major types.
 | [4. poweroffunc.c](https://github.com/WatashiwaSid/c-dev/blob/main/Functions/poweroffunc.c)      | function takes two arguments (mantissa and power) and, returns the power raised to the mantissa      |
 | [5. factorialrecursion.c](https://github.com/WatashiwaSid/c-dev/blob/main/Functions/factorialrecursion.c)      | A simple recursive function to return factorial of a number     |
 | [6. sumofn.c](https://github.com/WatashiwaSid/c-dev/blob/main/Functions/sumofn.c)      | A simple recursive function to add first n positive integers      |
+| [7. fibonaccirecursion.c](https://github.com/WatashiwaSid/c-dev/blob/main/Functions/fibonaccirecursion.c)      | Recursive function to print fibonacci series. Illutrates time complexity.      |
