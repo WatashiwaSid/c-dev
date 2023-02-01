@@ -36,7 +36,7 @@ void main()
     printf("Iterative Series : "); fibiteration(num);
 
     //input some big number and observe the time difference
-    printf("\n\nRecursice Series : ");
+    printf("\n\nRecursive Series : ");
     for(int count=0; count<num; count++)
     {
         printf("%d ", fibrecursion(count));
